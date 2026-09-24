@@ -1,0 +1,6 @@
+{
+  "name": "Bartr for Vendors",
+  "description": "Bartr for Vendors is an on-demand service marketplace platform for skilled artisans, mechanics, beauty professionals, and local technicians to discover customer requests, accept jobs, navigate routes, chat with clients, and manage wallet earnings.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
